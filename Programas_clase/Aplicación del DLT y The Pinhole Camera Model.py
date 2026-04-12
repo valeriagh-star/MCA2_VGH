@@ -3,6 +3,8 @@
 # Fecha: 06 - marzo - 2026
 # --------------------------------
 
+# Modelo: Se usó una caja rectangular
+
 import numpy as np
 
 # ---------------------------
