@@ -1,3 +1,8 @@
+# --------------------------------
+# Autora: García Herrera Valeria
+# Fecha: 08 - marzo - 2026
+# --------------------------------
+
 def gcd(a, b):
     """Calcula el Máximo Común Divisor."""
     while b:
@@ -44,7 +49,7 @@ else:
 
     # --- 2. CIFRADO ---
     # El mensaje M debe ser menor que n (123 < 177559)
-    mensaje_original = 123
+        mensaje_original = 123
     
     # C = M^e mod n
     cifrado = pow(mensaje_original, e, n)
