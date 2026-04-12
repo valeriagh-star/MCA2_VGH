@@ -41,7 +41,7 @@ d = mod_inverse(e, phi)
 if d is None:
     print(f"Error: e={e} no es coprimo con phi={phi}. Elige otro 'e'.")
 else:
-    print(f"----- LLAVES RSA GENERADAS -----")
+    print(f"--------- LLAVES RSA GENERADAS ---------")
     print(f"Módulo (n): {n}")
     print(f"Llave Pública (e): {e}")
     print(f"Llave Privada (d): {d}")
