@@ -1,4 +1,7 @@
-
+# --------------------------------
+# Autora: García Herrera Valeria
+# Fecha: 18 - abril - 2026
+# --------------------------------
 
 from sympy import Matrix, Rational
 import numpy as np
