@@ -30,7 +30,7 @@ Z3 = (-(1/3)*X - 0.25*Y) * 5
 ax1.plot_surface(X, Y, Z1, alpha=0.3, color='blue')
 ax1.plot_surface(X, Y, Z2, alpha=0.3, color='red')
 ax1.plot_surface(X, Y, Z3, alpha=0.3, color='green')
-ax1.set_title("Planos Inciso A (Hilbert)")
+ax1.set_title("Planos Inciso A (Matriz de Hilbert)")
 
 # ======================================
 # INCISO C: Matriz Casi Singular 2x2
