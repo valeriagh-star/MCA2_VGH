@@ -32,6 +32,12 @@ ax1.plot_surface(X, Y, Z2, alpha=0.3, color='red')
 ax1.plot_surface(X, Y, Z3, alpha=0.3, color='green')
 ax1.set_title("Planos Inciso A (Matriz de Hilbert)")
 
+# ================================================================================================================================
+# INCISO B: Matriz de Vandermonde 4x4
+# El sistema (b) no se puede graficar directamente porque está definido en términos de cuatro variables (x1,x2,x3,x4).
+# Cada ecuación representa un hiperplano en un espacio de dimensión 4, por lo que no es posible representarlo completamnete.
+# ================================================================================================================================
+
 # ======================================
 # INCISO C: Matriz Casi Singular 2x2
 # ======================================
