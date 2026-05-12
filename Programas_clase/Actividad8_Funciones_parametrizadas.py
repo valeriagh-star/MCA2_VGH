@@ -18,7 +18,6 @@ y = np.sin(t) + (1/2) * np.sin(7 * t) + (1/3) * np.cos(17 * t)
 plt.figure(figsize=(8, 8))
 plt.plot(x, y, color='darkcyan', lw=1.5)
 
-# Estética de la gráfica
 plt.title(r'Gráfica de funciones parametrizadas ($0 \leq t \leq 14\pi$)', fontsize=14)
 plt.xlabel('x(t)')
 plt.ylabel('y(t)')
