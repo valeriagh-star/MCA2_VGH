@@ -1,3 +1,8 @@
+# --------------------------------
+# Autora: García Herrera Valeria
+# Fecha: 11 - mayo - 2026
+# --------------------------------
+
 import numpy as np
 import matplotlib.pyplot as plt
 
